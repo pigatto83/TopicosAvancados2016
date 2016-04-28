@@ -1,0 +1,17 @@
+CVS: 0.4
+Resumo: 1.5
+Projeto: 6.3
+Nota G1: 8.2
+================
+Feedback Resumo
+================
+Texto não justificado. espaçamento entre parágrafos errado.
+Texto escrito em linguagem coloquial.
+diferenciou jogos e simuladores
+====================
+Feedback Projeto
+====================
+Repositório errado (tap-2016 era o correto), restante da organização efetuada conforme o solicitado.
+Código bem documentado, mas tabulação sofrível.
+Programa já fecha depois de escolher um método para ordenar. Poderia ter implementado um looping.Métodos bem explanados e Tutorial Ok. De onde saíram as Figuras? Referências são importantíssimas.
+
